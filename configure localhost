@@ -1,0 +1,69 @@
+With XAMPP (Windows)
+Locate your hosts file. In Windows XP, this file is located in C:\WINDOWS\system32\drivers\etc. Different versions of Windows may store the file in a different directory. And depending on your Windows setup, you might need to be logged in as an administrator to modify the hosts file.
+Open the file with a plain text editor (like Notepad++ or Sublime Text). In the hosts file, you should see something similar:
+127.0.0.1     localhost
+Right below the line 127.0.0.1 localhost, enter your domain name information. Example:
+
+127.0.0.1    mysite.local
+127.0.0.1    www.mysite.local
+Put all your website files in a folder “mysite” (for example) and put it in C:\xampp\htdocs\ like this C:\xampp\htdocs\mysite.
+Go to C:\xampp\apache\conf\
+Open httpd.conf file using a plain text editor (like Notepad++ or Sublime Text) and if you have a “#” before Include conf/extra/httpd-vhosts.conf, remove it by changing:
+# Include conf/extra/httpd-vhosts.conf
+to:
+
+Include conf/extra/httpd-vhosts.conf
+i.e. uncomment the line so that it can includes the virtual hosts file.
+
+Go to C:\xampp\apache\conf\extra\ and open httpd-vhosts.conf file using a plain text editor (like Notepad++ or Sublime Text) and add the following code:
+<VirtualHost *:80>
+	DocumentRoot "C:/xampp/htdocs/mysite"
+	ServerName mysite.local
+	ServerAlias www.mysite.local
+	<Directory "C:/xampp/htdocs/mysite">
+		AllowOverride All
+		Require all granted
+	</Directory>
+</VirtualHost>
+If not already open, open XAMPP control panel and start Apache.
+Go to the URL: http://mysite.local/
+You are done.
+
+
+
+
+
+
+
+With WAMP (Windows)
+Same steps as that of XAMPP just change the paths according to WAMP which corresponds to path in XAMPP.
+
+Locate your hosts file. In Windows XP, this file is located in C:\WINDOWS\system32\drivers\etc. Different versions of Windows may store the file in a different directory. And depending on your Windows setup, you might need to be logged in as an administrator to modify the hosts file.
+Open the file with a plain text editor (like Notepad++ or Sublime Text). In the hosts file, you should see something similar:
+127.0.0.1     localhost
+Right below the line 127.0.0.1 localhost, enter your domain name information. Example:
+
+127.0.0.1    mysite.local
+127.0.0.1    www.mysite.local
+Put all your website files in a folder “mysite” (for example) and put it inC:\wamp\www\ like this C:\wamp\www\mysite.
+Go to C:\wamp\bin\apache\apacheX.X.XX\conf\
+Open httpd.conf file using a plain text editor (like Notepad++ or Sublime Text) and if you have a “#” before Include conf/extra/httpd-vhosts.conf, remove it by changing:
+# Include conf/extra/httpd-vhosts.conf
+to:
+
+Include conf/extra/httpd-vhosts.conf
+i.e. uncomment the line so that it can includes the virtual hosts file.
+
+Go to C:\wamp\bin\apache\apacheX.X.XX\conf\extra\ and open httpd-vhosts.conf file using a plain text editor (like Notepad++ or Sublime Text) and add the following code:
+<VirtualHost *:80>
+	DocumentRoot "C:/wamp/www/mysite"
+	ServerName mysite.local
+	ServerAlias www.mysite.local
+	<Directory "C:/wamp/www/mysite">
+		Order allow,deny
+		Allow from all
+	</Directory>
+</VirtualHost>
+Restart your server.
+Go to the URL: http://mysite.local/
+You are done.

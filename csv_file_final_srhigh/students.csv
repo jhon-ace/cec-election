@@ -1,0 +1,488 @@
+id,stud_id,stud_lastname,stud_firstname,stud_middlename,stud_department,stud_year,code_to_vote,stud_status,voting_status,stud_block_status,logout_status
+,201910148,Bolambot,Sam Vincent,Bagolor,SHS-ABM,G - 11,HFzj,0,ready to vote,unblock,0
+,201910222,Bungabong,Irah Bem,Daga-Ang,SHS-ABM,G - 11,HJED,0,ready to vote,unblock,0
+,201910963,Burgos,Raphael,G.,SHS-ABM,G - 11,jLth,0,ready to vote,unblock,0
+,201910122,Lapure,Rucel,Fuego,SHS-ABM,G - 11,Knt6,0,ready to vote,unblock,0
+,201910625,Tongco,Diether Paul,Taganahan,SHS-ABM,G - 11,8b5h,0,ready to vote,unblock,0
+,201910714,Amon,Aprile Angelica,Bala,SHS-ABM,G - 11,fzEh,0,ready to vote,unblock,0
+,201910807,Asi¥Ero,Ruth,Arapoc,SHS-ABM,G - 11,hbHy,0,ready to vote,unblock,0
+,201910779,Ayop,Jlouise Marie,Tutor,SHS-ABM,G - 11,SmYm,0,ready to vote,unblock,0
+,201910543,Ca¥Al,Angelica Kaye,N/A,SHS-ABM,G - 11,pMFM,0,ready to vote,unblock,0
+,201910057,Caracas,Crisabel,N/A,SHS-ABM,G - 11,SvDE,0,ready to vote,unblock,0
+,201910471,Chiong,Cherry June,Agus,SHS-ABM,G - 11,whph,0,ready to vote,unblock,0
+,201910376,Clapano,Lecele Mae,Rivera,SHS-ABM,G - 11,d5ZX,0,ready to vote,unblock,0
+,201910383,Dela Zerna,Jea Mae,Clemen,SHS-ABM,G - 11,qTCd,0,ready to vote,unblock,0
+,201910715,Docabo,Cathlin Mae,Dahoyla,SHS-ABM,G - 11,QtrZ,0,ready to vote,unblock,0
+,201910306,Dumaluan,Honey,Mamonta,SHS-ABM,G - 11,phP4,0,ready to vote,unblock,0
+,201910061,Esto,Wendy Mae,Arawiran,SHS-ABM,G - 11,Z9b9,0,ready to vote,unblock,0
+,201910384,Fudolig,Sarah Jane,Arban,SHS-ABM,G - 11,DL8a,0,ready to vote,unblock,0
+,201910193,Guibone,Therese Marie,Nical,SHS-ABM,G - 11,zeUd,0,ready to vote,unblock,0
+,201910244,Guimalan,Trizelda,Cleme¥A,SHS-ABM,G - 11,hEZ6,0,ready to vote,unblock,0
+,201910150,Ligan,Julie,Pa¥A,SHS-ABM,G - 11,TCzu,0,ready to vote,unblock,0
+,201910841,Liquit,Kenji,Odiongan,SHS-ABM,G - 11,rhoY,0,ready to vote,unblock,0
+,201910056,Loreno,Ifrel,Cagulang,SHS-ABM,G - 11,6ZgH,0,ready to vote,unblock,0
+,201910243,Lusterio,Patricia Rosanne,Aralca,SHS-ABM,G - 11,RpG6,0,ready to vote,unblock,0
+,201910120,Mallare,Mea Adreanne ,Dominguez,SHS-ABM,G - 11,AegD,0,ready to vote,unblock,0
+,201910573,Ong,Rhoda,Bongcas,SHS-ABM,G - 11,h458,0,ready to vote,unblock,0
+,201910205,Orias,Mae Ann,Elumbra,SHS-ABM,G - 11,kzUv,0,ready to vote,unblock,0
+,201910264,Pontillas,Dexie,Lindo,SHS-ABM,G - 11,icAC,0,ready to vote,unblock,0
+,201910809,Racines,Chrisian Jeanne,Humol,SHS-ABM,G - 11,8fdE,0,ready to vote,unblock,0
+,201910828,Vergara, Caryl,Salazar ,SHS-ABM,G - 11,dNN2,0,ready to vote,unblock,0
+,201810164,Felisilda,Keen Cyril,Quilantang,SHS-ABM,G - 12,Tbdi,0,ready to vote,unblock,0
+,201810399,Jaum,Joseph John,Bansag,SHS-ABM,G - 12,A43F,0,ready to vote,unblock,0
+,201810442,Pegueras,Christian Dave,Na,SHS-ABM,G - 12,VhRp,0,ready to vote,unblock,0
+,0616-5657,Zafra,Mark James,N/A,SHS-ABM,G - 12,BGBA,0,ready to vote,unblock,0
+,201810096,Acero,Sheilo Karen,Bongosia,SHS-ABM,G - 12,orDr,0,ready to vote,unblock,0
+,201810146,Alforque,Kenyjane,Combinido,SHS-ABM,G - 12,d3Te,0,ready to vote,unblock,0
+,201810093,Aparre,Melody Amor,Mancha,SHS-ABM,G - 12,K4ZK,0,ready to vote,unblock,0
+,201810094,Aparre,Jennifer,Arcales,SHS-ABM,G - 12,vzUn,0,ready to vote,unblock,0
+,201810476,Arado,May Angelie,Mainit,SHS-ABM,G - 12,WXVQ,0,ready to vote,unblock,0
+,201810459,Arban,Trisha Irene ,Monterona,SHS-ABM,G - 12,dqkm,0,ready to vote,unblock,0
+,201810135,Arbuyes,Flora Mae,Luspoc,SHS-ABM,G - 12,ZPNf,0,ready to vote,unblock,0
+,201810134,Atupan,Jamaica Mae,Alpes,SHS-ABM,G - 12,DJNw,0,ready to vote,unblock,0
+,201810388,Balgos,Lea,Blasco,SHS-ABM,G - 12,z2fe,0,ready to vote,unblock,0
+,201810456,Boltron,Kristine Kaye,Guioguio,SHS-ABM,G - 12,785p,0,ready to vote,unblock,0
+,201810471,Bompat,Mary Angeline,Pagaran,SHS-ABM,G - 12,FNoX,0,ready to vote,unblock,0
+,201810071,Cesar,Whinna Marie,Pacna,SHS-ABM,G - 12,kYWn,0,ready to vote,unblock,0
+,201810448,Clemen,Erika Rose,Rodriguez,SHS-ABM,G - 12,E7G6,0,ready to vote,unblock,0
+,201810477,Dacoylo,Jirah Bless,Tayco,SHS-ABM,G - 12,NP5a,0,ready to vote,unblock,0
+,201810003,Dologuin,Maria Cristina,Matin-Ao,SHS-ABM,G - 12,4e4G,0,ready to vote,unblock,0
+,201810159,Estologa,Melca,Villaruel,SHS-ABM,G - 12,p8Mi,0,ready to vote,unblock,0
+,201810145,Guigue,Desirie,Ganancias,SHS-ABM,G - 12,QrJe,0,ready to vote,unblock,0
+,201810441,Guiritan,Jeliza,Labandera,SHS-ABM,G - 12,QoQd,0,ready to vote,unblock,0
+,201810446,Hinampas,Jessa Mae,Alberto,SHS-ABM,G - 12,tjai,0,ready to vote,unblock,0
+,201810131,Jala,May Jovi,Andoy,SHS-ABM,G - 12,yk3i,0,ready to vote,unblock,0
+,201810405,Lorica,Ria,Lorejo,SHS-ABM,G - 12,6msP,0,ready to vote,unblock,0
+,201810156,Lusterio,Carmie,N/A,SHS-ABM,G - 12,nsa9,0,ready to vote,unblock,0
+,201910751,Ongayo,Maria Bernadette,Capanay,SHS-ABM,G - 12,o4Do,0,ready to vote,unblock,0
+,201810447,Opalla,Erica,Balabat,SHS-ABM,G - 12,uqnx,0,ready to vote,unblock,0
+,201810499,Pasco,Danica,Sinatao,SHS-ABM,G - 12,vG2u,0,ready to vote,unblock,0
+,201810436,Pesidas,Cherry Jane,Fuego,SHS-ABM,G - 12,vmKY,0,ready to vote,unblock,0
+,201810428,Reyes,Christine Kit,Perocho,SHS-ABM,G - 12,crbL,0,ready to vote,unblock,0
+,201810424,Senerpida,Danica Jaya,Baclayon,SHS-ABM,G - 12,6nnR,0,ready to vote,unblock,0
+,201810130,Solteral,Jeannie,N/A,SHS-ABM,G - 12,FTrK,0,ready to vote,unblock,0
+,201810157,Sumaria,Princess Jazmin,None,SHS-ABM,G - 12,zWa2,0,ready to vote,unblock,0
+,201810490,Sumaria,Frecel,Arbutante,SHS-ABM,G - 12,eexa,0,ready to vote,unblock,0
+,201810219,Tagud,Jovy,Loong,SHS-ABM,G - 12,bmTo,0,ready to vote,unblock,0
+,201910541,Balmes,Rajamen,Na,SHS-ANM,G - 11,N5Zj,0,ready to vote,unblock,0
+,201910756,Galicia,Jake Romar,Sagetarios,SHS-ANM,G - 11,zzwH,0,ready to vote,unblock,0
+,201910924,Maghinay,Nole John,Mondarte,SHS-ANM,G - 11,aXpJ,0,ready to vote,unblock,0
+,201910853,Moralde,Jon Eminem,Karaan,SHS-ANM,G - 11,mCup,0,ready to vote,unblock,0
+,201910533,Sarabia,Schlwyn,Sagosa,SHS-ANM,G - 11,uF6f,0,ready to vote,unblock,0
+,201910735,Sajulga,Mariangel,Cagas,SHS-ANM,G - 11,9BtC,0,ready to vote,unblock,0
+,201810176,Castrodes,Kerby Brian,Boyore,SHS-ANM,G - 12,9hKw,0,ready to vote,unblock,0
+,201810588,Revil,Matt Andre,Caballo,SHS-ANM,G - 12,U9sP,0,ready to vote,unblock,0
+,201810308,Coliflores,Mary Shane,Bongo,SHS-ANM,G - 12,6fYL,0,ready to vote,unblock,0
+,201810296,Legaspi,Jundoll Grace,Alforte,SHS-ANM,G - 12,M9Ng,0,ready to vote,unblock,0
+,201810256,Pilongo,Ma. Leslie,Sanag,SHS-ANM,G - 12,QfVA,0,ready to vote,unblock,0
+,201910520,Aranaydo,Jan Welim,Dominise,SHS-HE-A,G - 11,NfeG,0,ready to vote,unblock,0
+,201910112,Balaba,Steven,Guivencan,SHS-HE-A,G - 11,ZRna,0,ready to vote,unblock,0
+,201910539,Bonao,Arvin,Lloren,SHS-HE-A,G - 11,EC2y,0,ready to vote,unblock,0
+,201910904,Bongo,Joshua,Manosa,SHS-HE-A,G - 11,si2e,0,ready to vote,unblock,0
+,201910913,Boyonas,James Davied,N/A,SHS-HE-A,G - 11,amzH,0,ready to vote,unblock,0
+,201910041,Buloran,Nichole James,Cabiso,SHS-HE-A,G - 11,JWMC,0,ready to vote,unblock,0
+,201910484,Cagas,Mar Brex,Llanos,SHS-HE-A,G - 11,b6XS,0,ready to vote,unblock,0
+,201910842,Cesar,John Wingay,Pacna,SHS-HE-A,G - 11,MSjs,0,ready to vote,unblock,0
+,201910521,Dologuin ,Carlshane,Maghamil,SHS-HE-A,G - 11,gpWp,0,ready to vote,unblock,0
+,0517-6037,Dominise,Justin Clark,Fonclara,SHS-HE-A,G - 11,m4Gg,0,ready to vote,unblock,0
+,201910739,Guimalan,Joseph Norris ,Dumadag ,SHS-HE-A,G - 11,TTK6,0,ready to vote,unblock,0
+,201910816,Hora,Tzeljunvic Eloiryan,Merca,SHS-HE-A,G - 11,jb8Y,0,ready to vote,unblock,0
+,201910511,Olarita,John Paul,Ingaran,SHS-HE-A,G - 11,NiQQ,0,ready to vote,unblock,0
+,201910284,Tuquib,Raymart,Bodiongan,SHS-HE-A,G - 11,yhjk,0,ready to vote,unblock,0
+,201910537,Bongcaron,Julie Ann,Cubeta,SHS-HE-A,G - 11,2Smp,0,ready to vote,unblock,0
+,201810663,Cloma,Johanna Erika,Jumalon,SHS-HE-A,G - 11,k7dD,0,ready to vote,unblock,0
+,201910456,Dedomo,Princess Mae ,Concha,SHS-HE-A,G - 11,zNgs,0,ready to vote,unblock,0
+,201910558,Grupp,Mikee,Baculta,SHS-HE-A,G - 11,vQut,0,ready to vote,unblock,0
+,201910536,Guigue,Julmie Cristine,Casia,SHS-HE-A,G - 11,zeEg,0,ready to vote,unblock,0
+,201910936,Logro¥O,Maria Schinina,Euse¤A,SHS-HE-A,G - 11,cPGM,0,ready to vote,unblock,0
+,201910632,Magleo,Jhea Mae,Clapiz,SHS-HE-A,G - 11,gWGp,0,ready to vote,unblock,0
+,201910740,Peligro,Analy,Visande,SHS-HE-A,G - 11,TQCf,0,ready to vote,unblock,0
+,201910688,Schott,Christina Maria,Dojo,SHS-HE-A,G - 11,Qbry,0,ready to vote,unblock,0
+,201810503,Agopitac,Jun Jerald,Clemen,SHS-HE-A,G - 12,XEbY,0,ready to vote,unblock,0
+,201810589,Apale,Ray Edrian,Ruizol,SHS-HE-A,G - 12,KVri,0,ready to vote,unblock,0
+,201810411,Ara¥A,Armand,Trabajo,SHS-HE-A,G - 12,MLVe,0,ready to vote,unblock,0
+,201810575,Bonao,Charles Wendell,Macura,SHS-HE-A,G - 12,HbUa,0,ready to vote,unblock,0
+,201810019,Clemen,Vincent,Ando,SHS-HE-A,G - 12,2Ags,0,ready to vote,unblock,0
+,201810505,Clemen,John Paul,Bersaluna,SHS-HE-A,G - 12,zmHd,0,ready to vote,unblock,0
+,201810132,Clenista,Emmanuel Jay,Arban,SHS-HE-A,G - 12,ehzW,0,ready to vote,unblock,0
+,201810504,Gemida,Jake Anthony,Guivencan,SHS-HE-A,G - 12,waXW,0,ready to vote,unblock,0
+,201810133,Hora,Christian John,Jagunos,SHS-HE-A,G - 12,do5P,0,ready to vote,unblock,0
+,201810481,Losba¥Os,John Anton,Guioguio,SHS-HE-A,G - 12,dmZ2,0,ready to vote,unblock,0
+,201810027,Patayon,Jude Lordan,Pinat,SHS-HE-A,G - 12,jxEX,0,ready to vote,unblock,0
+,201810508,Silva,Jann Joshua,Blanco,SHS-HE-A,G - 12,NLim,0,ready to vote,unblock,0
+,201810501,Arban,Leizyl Ann,Redoblado,SHS-HE-A,G - 12,gAR7,0,ready to vote,unblock,0
+,201810123,Arboladura,Shiela Mae,Kaiser,SHS-HE-A,G - 12,gSt7,0,ready to vote,unblock,0
+,201810500,Biosano,April,N/A,SHS-HE-A,G - 12,fKP2,0,ready to vote,unblock,0
+,201810457,Calunod,Almie,N/A,SHS-HE-A,G - 12,HDsh,0,ready to vote,unblock,0
+,201810506,Clenista,Ni¥A Angela,Cual,SHS-HE-A,G - 12,uSfh,0,ready to vote,unblock,0
+,201810122,Cloa,Kyla Jane,Mandin,SHS-HE-A,G - 12,CL8w,0,ready to vote,unblock,0
+,201810072,Cloma,Krisha Marie,Cesar,SHS-HE-A,G - 12,XnDC,0,ready to vote,unblock,0
+,201810142,Eyas,Pet Leah,Razo,SHS-HE-A,G - 12,hNkQ,0,ready to vote,unblock,0
+,201810125,Fenomino,Sheila Mae ,Romero,SHS-HE-A,G - 12,KSRh,0,ready to vote,unblock,0
+,201810120,Hora,Angelika,Arboleras,SHS-HE-A,G - 12,AEpH,0,ready to vote,unblock,0
+,201810185,Lua¥A,Emmie Rose,Agad,SHS-HE-A,G - 12,Lkxc,0,ready to vote,unblock,0
+,201810482,Moscatiles,Dina Marie,Garcia,SHS-HE-A,G - 12,3szM,0,ready to vote,unblock,0
+,201810449,Patay,Shiela Mae,Loretero,SHS-HE-A,G - 12,wiXG,0,ready to vote,unblock,0
+,201810009,Samonte,Cristine ,Carmen,SHS-HE-A,G - 12,L7ye,0,ready to vote,unblock,0
+,201810149,Suano,Ma. Marjorie,Guioguio,SHS-HE-A,G - 12,eFFU,0,ready to vote,unblock,0
+,201810167,Tuble,Aleah Kate,,SHS-HE-A,G - 12,5z8h,0,ready to vote,unblock,0
+,201910653,Espejo,Carlo James,Bullanday,SHS-HE-B,G - 11,zoi8,0,ready to vote,unblock,0
+,201910765,Manalo,Dhen Yuri,Salipong,SHS-HE-B,G - 11,2g2V,0,ready to vote,unblock,0
+,201910453,Milana,Matt James,Guioguio,SHS-HE-B,G - 11,ozXk,0,ready to vote,unblock,0
+,201910645,Abadingo,Jenny,Cabasag,SHS-HE-B,G - 11,XcfH,0,ready to vote,unblock,0
+,201910444,Barimbao,Jane Wyndel,Bolotaolo,SHS-HE-B,G - 11,C5oh,0,ready to vote,unblock,0
+,201910610,Biason,Pauline,Bancale,SHS-HE-B,G - 11,cyki,0,ready to vote,unblock,0
+,201910611,Biason,Paula Marie,Bancale,SHS-HE-B,G - 11,SHSu,0,ready to vote,unblock,0
+,201910237,Bolabos,Cherry Lou,Na,SHS-HE-B,G - 11,jaYm,0,ready to vote,unblock,0
+,201910516,Bongo,Lea,Iman,SHS-HE-B,G - 11,rkMj,0,ready to vote,unblock,0
+,201910175,Clemen,Jemaica,Rodriguez,SHS-HE-B,G - 11,hnc6,0,ready to vote,unblock,0
+,201910731,Gilman,Jv Miamarie,Melindo,SHS-HE-B,G - 11,xRL7,0,ready to vote,unblock,0
+,201910545,Milca,Breanna Nicka,Na,SHS-HE-B,G - 11,EnEa,0,ready to vote,unblock,0
+,201910321,Navarro,Leslie Jean,Dumaluan,SHS-HE-B,G - 11,rGiV,0,ready to vote,unblock,0
+,201910551,Ocular,Jaidenn Marie,Abergas,SHS-HE-B,G - 11,gEaa,0,ready to vote,unblock,0
+,201910184,Palos,Judy Ishie,Buenafe,SHS-HE-B,G - 11,dHbR,0,ready to vote,unblock,0
+,201910565,Sales,Rocelyn,Espinas,SHS-HE-B,G - 11,fRoG,0,ready to vote,unblock,0
+,201810404,Villanueva,Christian Gabriel,Lauros,SHS-HE-B,G - 12,Djri,0,ready to vote,unblock,0
+,201810237,Basco,Jhemarie,Aniscal,SHS-HE-B,G - 12,kmkE,0,ready to vote,unblock,0
+,201810473,Bompat,Pamela Nicole,Lagnason,SHS-HE-B,G - 12,Q3cT,0,ready to vote,unblock,0
+,201810453,Bongalos,Lyne Marie,Andoy,SHS-HE-B,G - 12,uDyV,0,ready to vote,unblock,0
+,201810073,Clarinan,Angelie,Arbutante,SHS-HE-B,G - 12,fS3H,0,ready to vote,unblock,0
+,201810409,Dango,Crislyn,Garcia,SHS-HE-B,G - 12,t8nK,0,ready to vote,unblock,0
+,201810054,Dungog,Cathleen Kaye,Bayron,SHS-HE-B,G - 12,aTis,0,ready to vote,unblock,0
+,201810625,Lorejo,Mia Joanna,Balili,SHS-HE-B,G - 12,UuGm,0,ready to vote,unblock,0
+,201810112,Ludia,Jessica,Dag-Uman,SHS-HE-B,G - 12,L5gv,0,ready to vote,unblock,0
+,201810092,Plaza,Kristelyn Kaye,Fuderanan,SHS-HE-B,G - 12,2t4x,0,ready to vote,unblock,0
+,201810151,Rontal,Carel Ann,Lumamba,SHS-HE-B,G - 12,FPTV,0,ready to vote,unblock,0
+,201810053,Torregosa,Krishia Mae,Dungog,SHS-HE-B,G - 12,qxHg,0,ready to vote,unblock,0
+,201810016,Trasporte,Glaisa Mae,Ortega,SHS-HE-B,G - 12,DGVj,0,ready to vote,unblock,0
+,201810152,Tubil,Jan Ave Stella,Rontal ,SHS-HE-B,G - 12,JmfZ,0,ready to vote,unblock,0
+,201910695,Adlawan,Alexson,Birad,SHS-MAR-PB,G - 11,HBAY,0,ready to vote,unblock,0
+,201910162,Adolfo,Francis,Quidlat,SHS-MAR-PB,G - 11,RNtP,0,ready to vote,unblock,0
+,201910153,Agustin,John Paolo,Jala,SHS-MAR-PB,G - 11,fQ8W,0,ready to vote,unblock,0
+,201910339,Ara¥A,Jeffrey,Sarabia,SHS-MAR-PB,G - 11,KEZf,0,ready to vote,unblock,0
+,201910627,Badinas,James Nichole,Demiao,SHS-MAR-PB,G - 11,3oFL,0,ready to vote,unblock,0
+,201910542,Balani,Cyrus Jay,Jamon,SHS-MAR-PB,G - 11,Jcxw,0,ready to vote,unblock,0
+,201910887,Balo,Leoncio Jr,Saliot,SHS-MAR-PB,G - 11,9Nbv,0,ready to vote,unblock,0
+,201910147,Bayud,John Joseph,Bompat,SHS-MAR-PB,G - 11,GeK5,0,ready to vote,unblock,0
+,201810169,Bodiongan,Reymark,Daug,SHS-MAR-PB,G - 11,6YyB,0,ready to vote,unblock,0
+,201910786,Bonje,Kyle Anthony,Lorete,SHS-MAR-PB,G - 11,NXd2,0,ready to vote,unblock,0
+,201910609,Buliag,Josh Alfred,Villaber,SHS-MAR-PB,G - 11,JXWZ,0,ready to vote,unblock,0
+,201910414,Cabata¥A,Stephen,Iman,SHS-MAR-PB,G - 11,3cVm,0,ready to vote,unblock,0
+,201910852,Cano,Jhonnel,Leoligao,SHS-MAR-PB,G - 11,JgdH,0,ready to vote,unblock,0
+,201910897,Capecinio,James,Loremia,SHS-MAR-PB,G - 11,n87q,0,ready to vote,unblock,0
+,201910832,Castro,Mark Darryl,Jumawid,SHS-MAR-PB,G - 11,PRNM,0,ready to vote,unblock,0
+,201910579,Celosia,Marc Nelson,Melencion,SHS-MAR-PB,G - 11,HYug,0,ready to vote,unblock,0
+,201910158,Ceros,Kenjiro Jay,Molina,SHS-MAR-PB,G - 11,39kM,0,ready to vote,unblock,0
+,201810346,Clenista,Darex,Satinitigan,SHS-MAR-PB,G - 11,zHZe,0,ready to vote,unblock,0
+,201910563,Cloma,Fermin Jr,Melicor,SHS-MAR-PB,G - 11,dVHg,0,ready to vote,unblock,0
+,201910886,Cubian,Robert John,Dominisac,SHS-MAR-PB,G - 11,XSoN,0,ready to vote,unblock,0
+,201910970,Dabatos,Paul Jordan,Bolotaolo,SHS-MAR-PB,G - 11,fUey,0,ready to vote,unblock,0
+,201910998,Dalagan,Kaine,Joyno,SHS-MAR-PB,G - 11,B33a,0,ready to vote,unblock,0
+,201910578,Datanagan,Lemuel,Busalanan,SHS-MAR-PB,G - 11,ZqfG,0,ready to vote,unblock,0
+,201910951,Dimagnaong,John Earl,Lopernes,SHS-MAR-PB,G - 11,F9jg,0,ready to vote,unblock,0
+,201910601,Duyac,Levi,Ayop,SHS-MAR-PB,G - 11,7AS8,0,ready to vote,unblock,0
+,201910732,Florenosos,Christian,Jamago,SHS-MAR-PB,G - 11,zMm8,0,ready to vote,unblock,0
+,201910181,Fuentes,Ronelo,Loreniana,SHS-MAR-PB,G - 11,tuKH,0,ready to vote,unblock,0
+,201910548,Gallano,Glenyan Ni¥O,Aurit,SHS-MAR-PB,G - 11,Nv67,0,ready to vote,unblock,0
+,201910332,Gamas,Kenan Joshua,Pajo,SHS-MAR-PB,G - 11,WpSf,0,ready to vote,unblock,0
+,201910333,Gamas,Alphard Benedict,Pajo,SHS-MAR-PB,G - 11,aF4Z,0,ready to vote,unblock,0
+,201910908,Go,Mark Lewin,Reyes,SHS-MAR-PB,G - 11,Dsjt,0,ready to vote,unblock,0
+,201810360,Hampac,Val Nicoleson,Centes,SHS-MAR-PB,G - 11,6fBG,0,ready to vote,unblock,0
+,201910161,Horcerada,Aljane,Daohog,SHS-MAR-PB,G - 11,VLz7,0,ready to vote,unblock,0
+,201910248,Hormachuelos,Ralph Vincent,Guivencan,SHS-MAR-PB,G - 11,Xarv,0,ready to vote,unblock,0
+,201910463,Jimenez,Karl Niccoli,Salise,SHS-MAR-PB,G - 11,GWiL,0,ready to vote,unblock,0
+,201910605,Lapat,Erwin John,Remedio,SHS-MAR-PB,G - 11,YcPa,0,ready to vote,unblock,0
+,201910527,Loretero,Ariel,Lorejo,SHS-MAR-PB,G - 11,zakm,0,ready to vote,unblock,0
+,201910883,Lubiano,Bryan Vince,Pascua,SHS-MAR-PB,G - 11,fJAc,0,ready to vote,unblock,0
+,201910544,Luspoc,John Alfe,Milay,SHS-MAR-PB,G - 11,ze9c,0,ready to vote,unblock,0
+,201910204,Mandar,Kim,Buaya,SHS-MAR-PB,G - 11,aw9S,0,ready to vote,unblock,0
+,201910689,Montesco,Rohan James,Gayorgor,SHS-MAR-PB,G - 11,XkEN,0,ready to vote,unblock,0
+,201910534,Mutuc,John Clyde,Cabardo,SHS-MAR-PB,G - 11,Mvnr,0,ready to vote,unblock,0
+,201910598,Mutuc,Kin,Duavis,SHS-MAR-PB,G - 11,bvUz,0,ready to vote,unblock,0
+,201910505,Onod,Niel Christian,Estoquia,SHS-MAR-PB,G - 11,DTmR,0,ready to vote,unblock,0
+,201910733,Pa¥A,John Lucky Strike,Famat,SHS-MAR-PB,G - 11,YyFP,0,ready to vote,unblock,0
+,201910063,Palacio,Aenosh Kenan,Operiano,SHS-MAR-PB,G - 11,WVRF,0,ready to vote,unblock,0
+,201910069,Palacio,Kurt Yrieix,Galan,SHS-MAR-PB,G - 11,wbKk,0,ready to vote,unblock,0
+,201910577,Palmitos,Jade Rendon,Porral,SHS-MAR-PB,G - 11,dvLg,0,ready to vote,unblock,0
+,201910824,Peligro,Ray Steven,Estoquia,SHS-MAR-PB,G - 11,pNqs,0,ready to vote,unblock,0
+,201910823,Penales,Miguel Andrei,Na,SHS-MAR-PB,G - 11,UwFC,0,ready to vote,unblock,0
+,201910566,Petalcorin,Kim Bryan,Patiga,SHS-MAR-PB,G - 11,KWPh,0,ready to vote,unblock,0
+,201910939,Pojas,Vicente,Sungat,SHS-MAR-PB,G - 11,FUZw,0,ready to vote,unblock,0
+,201910952,Porinas,John Melchor,Lolo,SHS-MAR-PB,G - 11,FK9m,0,ready to vote,unblock,0
+,201910717,Real,Ron Josef,Fuertes,SHS-MAR-PB,G - 11,YtWk,0,ready to vote,unblock,0
+,201910455,Remerata,Marvin,Arbutante,SHS-MAR-PB,G - 11,doVX,0,ready to vote,unblock,0
+,201910132,Requiron,Ralph,Ocular,SHS-MAR-PB,G - 11,4zU4,0,ready to vote,unblock,0
+,201910766,Sarahina,Jomarey,Milay,SHS-MAR-PB,G - 11,fYpd,0,ready to vote,unblock,0
+,201910078,Sayson,John Joshua,Luib,SHS-MAR-PB,G - 11,9TAQ,0,ready to vote,unblock,0
+,201910827,Seco ,Anjo,Wahing,SHS-MAR-PB,G - 11,Vs4t,0,ready to vote,unblock,0
+,201910759,Sesante,Eugene Cristopher,Ricafort,SHS-MAR-PB,G - 11,Hdro,0,ready to vote,unblock,0
+,201910635,Soco,Mark Lester,Hora,SHS-MAR-PB,G - 11,9apd,0,ready to vote,unblock,0
+,201910659,Solon,Ted Ian,Dispo,SHS-MAR-PB,G - 11,FvNt,0,ready to vote,unblock,0
+,201910180,Sortones,Jamester,Loreniana,SHS-MAR-PB,G - 11,ABf5,0,ready to vote,unblock,0
+,201910531,Sumodobila,John Philip,Cuyno,SHS-MAR-PB,G - 11,mfA4,0,ready to vote,unblock,0
+,201810578,Taga-An,Franklin,Gablines,SHS-MAR-PB,G - 11,vbMo,0,ready to vote,unblock,0
+,201910528,Taguic,Kian Ralph,Salem,SHS-MAR-PB,G - 11,Gk6w,0,ready to vote,unblock,0
+,201910561,Taguic,Karl,Caitom,SHS-MAR-PB,G - 11,QQXf,0,ready to vote,unblock,0
+,201910719,Trayvilla,Denmarc,Fuertes,SHS-MAR-PB,G - 11,HHP4,0,ready to vote,unblock,0
+,201910048,Turan,John Lester,Reyes,SHS-MAR-PB,G - 11,xqLh,0,ready to vote,unblock,0
+,201910212,Tutor,Jerome Cesar,Galigao,SHS-MAR-PB,G - 11,nmSz,0,ready to vote,unblock,0
+,201910517,Udarbe,Jeric Ians,Tagotongan,SHS-MAR-PB,G - 11,oFEj,0,ready to vote,unblock,0
+,201910810,Undang,Marpe,Millan,SHS-MAR-PB,G - 11,zH7z,0,ready to vote,unblock,0
+,201910826,Wahing,Khem,Batonghinog,SHS-MAR-PB,G - 11,ot8e,0,ready to vote,unblock,0
+,201910519,Dote,Normae Anne,Tubayan,SHS-MAR-PB,G - 11,MHb8,0,ready to vote,unblock,0
+,201810099,Aba-A,Kim Isidore,Solabar,SHS-MAR-PB,G - 12,8Z6D,0,ready to vote,unblock,0
+,201810638,Abayabay,Ronald Jr,Buro,SHS-MAR-PB,G - 12,vcgH,0,ready to vote,unblock,0
+,201810022,Acuram,Genesis,Dayonot,SHS-MAR-PB,G - 12,p7a9,0,ready to vote,unblock,0
+,201810464,Adena,John Mark,Bacus,SHS-MAR-PB,G - 12,NKXd,0,ready to vote,unblock,0
+,0517-5945,Adlaon,Paul Adrian,Sacasan,SHS-MAR-PB,G - 12,HL8W,0,ready to vote,unblock,0
+,201810376,Amoncio,Louel John,Acma,SHS-MAR-PB,G - 12,4e3w,0,ready to vote,unblock,0
+,201810380,Anaviso,Gerald,Quipit,SHS-MAR-PB,G - 12,6und,0,ready to vote,unblock,0
+,201810047,Ara¥A,Mclevi,Cayetano,SHS-MAR-PB,G - 12,VANV,0,ready to vote,unblock,0
+,201810461,Arado,John Rey,N/A,SHS-MAR-PB,G - 12,kY6s,0,ready to vote,unblock,0
+,201810601,Arasan,Ronie,Jaen,SHS-MAR-PB,G - 12,cSaE,0,ready to vote,unblock,0
+,201810014,Baay ,Jubelito,Galbo,SHS-MAR-PB,G - 12,EUUK,0,ready to vote,unblock,0
+,201810379,Bahan,Spyrus,Cagas,SHS-MAR-PB,G - 12,LyHr,0,ready to vote,unblock,0
+,201910681,Balmes,Curt,Na,SHS-MAR-PB,G - 12,42Bj,0,ready to vote,unblock,0
+,201810083,Balon,Alan Joseph,Cago,SHS-MAR-PB,G - 12,hthm,0,ready to vote,unblock,0
+,201810153,Batoy,Jomar,Andoy,SHS-MAR-PB,G - 12,7HXf,0,ready to vote,unblock,0
+,201810670,Baugbog,Carl Louisse,Tabel,SHS-MAR-PB,G - 12,QdxE,0,ready to vote,unblock,0
+,201810213,Belarmino,Kim Lester,Abejaron,SHS-MAR-PB,G - 12,dcTU,0,ready to vote,unblock,0
+,201810036,Boloron,John Randy,Labuga,SHS-MAR-PB,G - 12,YiSA,0,ready to vote,unblock,0
+,201810532,Bompat,Jerome,Sarahina,SHS-MAR-PB,G - 12,xrhJ,0,ready to vote,unblock,0
+,201810056,Bongo,James Lester,Bernaldez,SHS-MAR-PB,G - 12,PSBa,0,ready to vote,unblock,0
+,201810479,Bongo,Kelvin Jay,Laina,SHS-MAR-PB,G - 12,nSfp,0,ready to vote,unblock,0
+,201810180,Buaya,Kent Remar,Alivio,SHS-MAR-PB,G - 12,gfjM,0,ready to vote,unblock,0
+,201810389,Bucar,John Kevin,Omac,SHS-MAR-PB,G - 12,Hjv8,0,ready to vote,unblock,0
+,201810001,Bulual,Vince Roweld,Saul,SHS-MAR-PB,G - 12,A4jz,0,ready to vote,unblock,0
+,201810402,Butron,Kimzi,Torres,SHS-MAR-PB,G - 12,ZzZR,0,ready to vote,unblock,0
+,201810594,Ca¥Ete,Laplace ,Bond ,SHS-MAR-PB,G - 12,jnhL,0,ready to vote,unblock,0
+,201810451,Cabahug,John Dennis,Pastoril,SHS-MAR-PB,G - 12,kcTi,0,ready to vote,unblock,0
+,201810455,Cabilan,Yuan Cyril,Guno,SHS-MAR-PB,G - 12,g7cV,0,ready to vote,unblock,0
+,201810051,Canillo,Randel Jhon,Sumaylo,SHS-MAR-PB,G - 12,W7Uv,0,ready to vote,unblock,0
+,201810017,Capin,Vincent Kenn,Cloma,SHS-MAR-PB,G - 12,fjtt,0,ready to vote,unblock,0
+,201810397,Cario,Reymart,Macadini,SHS-MAR-PB,G - 12,23Gw,0,ready to vote,unblock,0
+,201810507,Carpentero,Frendy,Enderes,SHS-MAR-PB,G - 12,Lc7Z,0,ready to vote,unblock,0
+,201810605,Colanse,Dan Anthony,Lungay,SHS-MAR-PB,G - 12,Fm4o,0,ready to vote,unblock,0
+,201810381,Cubero,Jacis Kier,Alinab,SHS-MAR-PB,G - 12,j8v4,0,ready to vote,unblock,0
+,201810421,Da¥Go,Vincent,Castillo,SHS-MAR-PB,G - 12,DKnC,0,ready to vote,unblock,0
+,201810384,Daguimol,Clark Louisse,Magsalay,SHS-MAR-PB,G - 12,6adB,0,ready to vote,unblock,0
+,201810117,Dapar,Ariel,Argullozos,SHS-MAR-PB,G - 12,mbMn,0,ready to vote,unblock,0
+,201810430,Dicdiquin,Rex,Quinlog,SHS-MAR-PB,G - 12,U9QQ,0,ready to vote,unblock,0
+,201810467,Echavez,Carlo Magno,Salomon,SHS-MAR-PB,G - 12,bKwr,0,ready to vote,unblock,0
+,201910612,Edquilag,Laurence Ni¥O,Rivera,SHS-MAR-PB,G - 12,m5Pz,0,ready to vote,unblock,0
+,201810527,Ferniz,Clyde,Lim,SHS-MAR-PB,G - 12,AKoJ,0,ready to vote,unblock,0
+,201810062,Fullido,France Schubert,Busano,SHS-MAR-PB,G - 12,wkm2,0,ready to vote,unblock,0
+,201810542,Gacasan,Louelle Jay,Tagotongan,SHS-MAR-PB,G - 12,C3bu,0,ready to vote,unblock,0
+,201810398,Galan,Jared,Patenio,SHS-MAR-PB,G - 12,Cikt,0,ready to vote,unblock,0
+,201810392,Galarion,Dustin Gt,Matin-Ao,SHS-MAR-PB,G - 12,New7,0,ready to vote,unblock,0
+,201810040,Galon,John Jeren,Calumpong,SHS-MAR-PB,G - 12,vd9Y,0,ready to vote,unblock,0
+,201810529,Gamos,Rex Vladimir,.,SHS-MAR-PB,G - 12,qaRz,0,ready to vote,unblock,0
+,201810408,Gamus,June Marc,Torillo,SHS-MAR-PB,G - 12,dbcx,0,ready to vote,unblock,0
+,201810413,Gomez,Keanu,Escolano,SHS-MAR-PB,G - 12,nGQH,0,ready to vote,unblock,0
+,201810494,Guibone,Stephen Dale,.,SHS-MAR-PB,G - 12,5cD4,0,ready to vote,unblock,0
+,201810391,Gujil,Kienth,Decasa,SHS-MAR-PB,G - 12,GxdY,0,ready to vote,unblock,0
+,201810437,Hamlag,John Michael,Magaway,SHS-MAR-PB,G - 12,9cZN,0,ready to vote,unblock,0
+,0617-6116,Hontanosas,John Alfred,Cabahug,SHS-MAR-PB,G - 12,haqa,0,ready to vote,unblock,0
+,201810403,Hontanosas,John Michael,Poliran,SHS-MAR-PB,G - 12,47RB,0,ready to vote,unblock,0
+,201810412,Horcerada,Alberto Jr.,Daohog,SHS-MAR-PB,G - 12,2aNQ,0,ready to vote,unblock,0
+,201810119,Hoybia,John Cris,Estoque,SHS-MAR-PB,G - 12,xCZ6,0,ready to vote,unblock,0
+,201810420,Jumawid,Jay,Cabug-Os,SHS-MAR-PB,G - 12,Jrzc,0,ready to vote,unblock,0
+,201810427,Lagmas,Mark Aldrin,Pasi,SHS-MAR-PB,G - 12,f6yg,0,ready to vote,unblock,0
+,0517-5905,Lampa,Raymond,Bonghanoy,SHS-MAR-PB,G - 12,C6VN,0,ready to vote,unblock,0
+,201810194,Lorejo,Vasil,Villas,SHS-MAR-PB,G - 12,fkER,0,ready to vote,unblock,0
+,201810060,Luchavez,Kent Ryan,Dimagnaong,SHS-MAR-PB,G - 12,WLUg,0,ready to vote,unblock,0
+,201810657,Lumay,Flord Anthony,Baya-Baya,SHS-MAR-PB,G - 12,4xmm,0,ready to vote,unblock,0
+,201810174,Lumbres,Ni¥O Rey,Silagan,SHS-MAR-PB,G - 12,57gU,0,ready to vote,unblock,0
+,201810439,Maglajos,Eduard Van ,Lumaad,SHS-MAR-PB,G - 12,6Gre,0,ready to vote,unblock,0
+,201810378,Magsayo,Kent Johnsen,Saren,SHS-MAR-PB,G - 12,zcU6,0,ready to vote,unblock,0
+,201810118,Malaran,Marcelo Jr,Luza,SHS-MAR-PB,G - 12,qHup,0,ready to vote,unblock,0
+,201810102,Mandagway,Ronel,Catampao,SHS-MAR-PB,G - 12,kL9C,0,ready to vote,unblock,0
+,201810138,Mandin,Jun Mark,Fuderanan,SHS-MAR-PB,G - 12,DARu,0,ready to vote,unblock,0
+,201810618,Mejos,Marvin,Mori,SHS-MAR-PB,G - 12,5GiH,0,ready to vote,unblock,0
+,201810480,Mijos,Juhnedel,Clapano,SHS-MAR-PB,G - 12,zPu2,0,ready to vote,unblock,0
+,0517-5944,Niza,Ni¥O,Bohol,SHS-MAR-PB,G - 12,jUBY,0,ready to vote,unblock,0
+,201810333,Oclenaria,Jeyr,Villamora,SHS-MAR-PB,G - 12,FJ5e,0,ready to vote,unblock,0
+,201810544,Ocon,Kian Grey,Ca¥Ete,SHS-MAR-PB,G - 12,owEU,0,ready to vote,unblock,0
+,201810383,Pagapong,Dino,.,SHS-MAR-PB,G - 12,k8Vu,0,ready to vote,unblock,0
+,201810055,Pajente,Edmar,Pelonio,SHS-MAR-PB,G - 12,V6FM,0,ready to vote,unblock,0
+,201810434,Paumig,Jun Theodore,Doring,SHS-MAR-PB,G - 12,s9JV,0,ready to vote,unblock,0
+,201810474,Perfecio,Mike Anthony,Alingig,SHS-MAR-PB,G - 12,a5nQ,0,ready to vote,unblock,0
+,201810238,Pesquera,Vicente Jr,Tesara,SHS-MAR-PB,G - 12,VQAX,0,ready to vote,unblock,0
+,201810227,Plazos,Aljan,Marimon,SHS-MAR-PB,G - 12,d9TK,0,ready to vote,unblock,0
+,201810458,Porlares,Keneth,Arrogante,SHS-MAR-PB,G - 12,t2Zr,0,ready to vote,unblock,0
+,201810393,Portes,Dwight Jay,Doligues,SHS-MAR-PB,G - 12,gRo5,0,ready to vote,unblock,0
+,201810565,Puagang,John Steve,Labado,SHS-MAR-PB,G - 12,Kzrr,0,ready to vote,unblock,0
+,201810435,Quimpan,Kit Darren,Decasa,SHS-MAR-PB,G - 12,DRQj,0,ready to vote,unblock,0
+,201810390,Raffi¥An,Gene,Ancog,SHS-MAR-PB,G - 12,wg2n,0,ready to vote,unblock,0
+,201810548,Requina,Bryle Joshua,Seranias,SHS-MAR-PB,G - 12,DNML,0,ready to vote,unblock,0
+,201810426,Ricafort,Leo Keneth,Guzman,SHS-MAR-PB,G - 12,zgTN,0,ready to vote,unblock,0
+,201810410,Roxas,Ron Andrei,Igcol,SHS-MAR-PB,G - 12,fEii,0,ready to vote,unblock,0
+,201810382,Russo,Johnny Wilson Jr.,Disto,SHS-MAR-PB,G - 12,E5Fe,0,ready to vote,unblock,0
+,201810513,Saligumba,Ryle Avrian,Mar,SHS-MAR-PB,G - 12,ANGx,0,ready to vote,unblock,0
+,201810396,Salvador,Roy Jethro ,Enoc,SHS-MAR-PB,G - 12,mhfv,0,ready to vote,unblock,0
+,201810154,Sarce,Mike Darille,N/A,SHS-MAR-PB,G - 12,XDgi,0,ready to vote,unblock,0
+,201810438,Sarong,Francis Juan,Guatno,SHS-MAR-PB,G - 12,jhDa,0,ready to vote,unblock,0
+,201810440,Saturos,Robin,Aniana,SHS-MAR-PB,G - 12,2NXc,0,ready to vote,unblock,0
+,201810502,Sendrijas,Lyndon Jon ,Tasic,SHS-MAR-PB,G - 12,wmWJ,0,ready to vote,unblock,0
+,201810450,Suello,Euel Jr.,Torrefiel,SHS-MAR-PB,G - 12,hzMQ,0,ready to vote,unblock,0
+,201810463,Tanseco,John Michael,Biloy,SHS-MAR-PB,G - 12,v4tu,0,ready to vote,unblock,0
+,0417-5821,Tubelleja,Roy Angelo,Loquias,SHS-MAR-PB,G - 12,XZxR,0,ready to vote,unblock,0
+,201810422,Yana,Zyril Stephen John,Bansag,SHS-MAR-PB,G - 12,eUKS,0,ready to vote,unblock,0
+,201810184,Acub,Kimberly,Nistal,SHS-MAR-PB,G - 12,Ux6r,0,ready to vote,unblock,0
+,201810587,Avenido,Kassandra Heart,Cuyno,SHS-MAR-PB,G - 12,iajQ,0,ready to vote,unblock,0
+,201810628,Cubalan,Kharelle,Tilos,SHS-MAR-PB,G - 12,sgtZ,0,ready to vote,unblock,0
+,0616-5500,Digamon,Hanna Valerie,N/A,SHS-MAR-PB,G - 12,rdrk,0,ready to vote,unblock,0
+,201810183,Manalo,Ghiemdhen Nicole,Salipong,SHS-MAR-PB,G - 12,oLZb,0,ready to vote,unblock,0
+,201910664,Gimeno,Anthony James,Sanag,SHS-PROG,G - 11,ZKig,0,ready to vote,unblock,0
+,201910178,Hibaya,Jelbert,Mantong,SHS-PROG,G - 11,x4dM,0,ready to vote,unblock,0
+,201910995,Ibasitas,Ed Nicole,Magdua,SHS-PROG,G - 11,kqMt,0,ready to vote,unblock,0
+,201910043,Lumayno,Randilo,Marinas,SHS-PROG,G - 11,TZip,0,ready to vote,unblock,0
+,201910994,Mar,Ni¥O Maria,Maliza,SHS-PROG,G - 11,vKiJ,0,ready to vote,unblock,0
+,201910281,Ongayo,Justine,Burdado,SHS-PROG,G - 11,uHHZ,0,ready to vote,unblock,0
+,201910046,Palban,Mark Vincent,Bapilar,SHS-PROG,G - 11,AJUg,0,ready to vote,unblock,0
+,201910955,Salabe,Fhilip Ryan,Guiritan,SHS-PROG,G - 11,zK22,0,ready to vote,unblock,0
+,201910893,Valenzuela,Aeron Dave,Ope¤A,SHS-PROG,G - 11,CJSm,0,ready to vote,unblock,0
+,201910637,Ayuban,Kathrine Mae,Quileopas,SHS-PROG,G - 11,pPZ9,0,ready to vote,unblock,0
+,201810603,Abellana,Zenno Dominic,Putong,SHS-PROG,G - 12,a6df,0,ready to vote,unblock,0
+,201810269,Baliling,Jabez Cyrus,Ni¥Eza,SHS-PROG,G - 12,5LCW,0,ready to vote,unblock,0
+,201810253,Daniel,Angelo,Sema¤A,SHS-PROG,G - 12,j7B6,0,ready to vote,unblock,0
+,201810271,Escabarte,Kenneth,Malabas,SHS-PROG,G - 12,tJBE,0,ready to vote,unblock,0
+,201810312,Idusma,Mark Angelou,Egam,SHS-PROG,G - 12,2vTF,0,ready to vote,unblock,0
+,201810177,Lariosa,Clinth Ethan,Natan,SHS-PROG,G - 12,SZnX,0,ready to vote,unblock,0
+,201810097,Legaspi,Sherwin,Vales,SHS-PROG,G - 12,E4nG,0,ready to vote,unblock,0
+,1116-3903,Madula,Ray Linberge,Simbajon,SHS-PROG,G - 12,cwjL,0,ready to vote,unblock,0
+,201810318,Nuez,Gian Joseph,Saramosing,SHS-PROG,G - 12,dY8Y,0,ready to vote,unblock,0
+,201810310,Roma,Keith Canon,Na,SHS-PROG,G - 12,GBxF,0,ready to vote,unblock,0
+,201810600,Suarez,Benjieboy,N/A,SHS-PROG,G - 12,5wE1,0,ready to vote,unblock,0
+,201810272,Torillo,Mark Allan,Baja,SHS-PROG,G - 12,SATR,0,ready to vote,unblock,0
+,201810109,Bulias,Kisha Merrill,Baluca,SHS-PROG,G - 12,wbuY,0,ready to vote,unblock,0
+,0517-3938,Pague,Jecyl,Gawat,SHS-PROG,G - 12,XhRs,0,ready to vote,unblock,0
+,201810301,Pitoy,Karen Jeszary,Ibon,SHS-PROG,G - 12,QPzT,0,ready to vote,unblock,0
+,201810282,Sambalud,Rachel Anne,Careg,SHS-PROG,G - 12,kqih,0,ready to vote,unblock,0
+,201810251,Tero,Angelwin Marie,Ellorimo,SHS-PROG,G - 12,9hiA,0,ready to vote,unblock,0
+,201910447,Abao,Kent Louie,Cloa,SHS-STEM,G - 11,77ck,0,ready to vote,unblock,0
+,201910207,Alturas,Florenze Ni¤O,Na,SHS-STEM,G - 11,tBXY,0,ready to vote,unblock,0
+,201910670,Alvarado,James Alfred,Curit,SHS-STEM,G - 11,kXeg,0,ready to vote,unblock,0
+,201910652,Arcay,Kent,N/A,SHS-STEM,G - 11,onbS,0,ready to vote,unblock,0
+,201910760,Arcay,Jairo Harris,Bodiongan,SHS-STEM,G - 11,tGzS,0,ready to vote,unblock,0
+,201910844,Balagulan,Jerome  Cedric,Ignacio,SHS-STEM,G - 11,sVrt,0,ready to vote,unblock,0
+,201910320,Balo,Sam Kristofil,Jumilla,SHS-STEM,G - 11,Cdac,0,ready to vote,unblock,0
+,201910409,Bautista,Moises,Dimalig,SHS-STEM,G - 11,rWQM,0,ready to vote,unblock,0
+,201910881,Bodiongan,Steven,Daug,SHS-STEM,G - 11,MXnD,0,ready to vote,unblock,0
+,201910640,Boltron,John Kayl,Guioguio,SHS-STEM,G - 11,5vaa,0,ready to vote,unblock,0
+,201910850,Bongcal,Roland,Guiraldo,SHS-STEM,G - 11,E74d,0,ready to vote,unblock,0
+,201910584,Bongcas,Ni¥O Jay,Abrogue¤A,SHS-STEM,G - 11,XPSQ,0,ready to vote,unblock,0
+,201910308,Bongo,John Michael,Diez,SHS-STEM,G - 11,XpQH,0,ready to vote,unblock,0
+,201910773,Busano,Johndale,Gican,SHS-STEM,G - 11,W3tQ,0,ready to vote,unblock,0
+,201910873,Clemen,Justin,Fuellas,SHS-STEM,G - 11,JRBz,0,ready to vote,unblock,0
+,201910500,Clenista,Jules Daryl,Bongay,SHS-STEM,G - 11,knji,0,ready to vote,unblock,0
+,201910501,Clenista,Ryan Claude,Cubero,SHS-STEM,G - 11,c4Na,0,ready to vote,unblock,0
+,201910525,Cloma,Kirby Mark,Biosano,SHS-STEM,G - 11,WwiV,0,ready to vote,unblock,0
+,201910382,Corpuz,Mark Justine,Oppus,SHS-STEM,G - 11,BBPN,0,ready to vote,unblock,0
+,201910446,Cuevas,Harold,Lapez,SHS-STEM,G - 11,7XHm,0,ready to vote,unblock,0
+,201910307,Dalida,Roy Angel,Lusterio,SHS-STEM,G - 11,TpGn,0,ready to vote,unblock,0
+,201910460,Dango,Kenneth,Baculi,SHS-STEM,G - 11,dsL2,0,ready to vote,unblock,0
+,201910165,Dela Riva,Fernando,Ondangan,SHS-STEM,G - 11,zbfj,0,ready to vote,unblock,0
+,201910858,Dominisac,Carl Joseph,Abaya,SHS-STEM,G - 11,spBP,0,ready to vote,unblock,0
+,201910547,Estorosos,Darwin John,Caduyac,SHS-STEM,G - 11,6nRe,0,ready to vote,unblock,0
+,201910774,Gican,Kenneth,Parba,SHS-STEM,G - 11,FaGc,0,ready to vote,unblock,0
+,201910874,Gilig,John Alter,Paquibot,SHS-STEM,G - 11,DA6V,0,ready to vote,unblock,0
+,201910490,Guiritan,John Lloyd,Labandera,SHS-STEM,G - 11,uA8f,0,ready to vote,unblock,0
+,201910310,Lood,John Rafael,Maali,SHS-STEM,G - 11,xo55,0,ready to vote,unblock,0
+,201910884,Loquellano,Kyle Vincent,Montalban,SHS-STEM,G - 11,SeHS,0,ready to vote,unblock,0
+,201910491,Lorejo,Lyko Angelo,N/A,SHS-STEM,G - 11,Ycey,0,ready to vote,unblock,0
+,201910587,Lorejo,Ralph Zeus,Tejero,SHS-STEM,G - 11,FXtH,0,ready to vote,unblock,0
+,201910466,Medellin,Vincent Albert,Clenuar,SHS-STEM,G - 11,D7ca,0,ready to vote,unblock,0
+,201910280,Nistal,Lord Emman,Madera,SHS-STEM,G - 11,eLjD,0,ready to vote,unblock,0
+,201910722,Ongi,Marvin,Hornido,SHS-STEM,G - 11,5fbj,0,ready to vote,unblock,0
+,201910386,Pernia,Armel Jay,Loreniana,SHS-STEM,G - 11,ommu,0,ready to vote,unblock,0
+,201910319,Pogoy,Adrian,Loreniana,SHS-STEM,G - 11,hqt2,0,ready to vote,unblock,0
+,201910825,Rebosura,Prince Joseph,Arong,SHS-STEM,G - 11,Z3ZE,0,ready to vote,unblock,0
+,201910572,Sinapsap,Harvey,Cajelo,SHS-STEM,G - 11,m8Qy,0,ready to vote,unblock,0
+,201910546,Suganob,Rio,Comba,SHS-STEM,G - 11,8LEK,0,ready to vote,unblock,0
+,201910286,Tuquib,Raymund,Bodiongan,SHS-STEM,G - 11,9DG2,0,ready to vote,unblock,0
+,201910554,Umbrete,Michael Andre,N/A,SHS-STEM,G - 11,VcXx,0,ready to vote,unblock,0
+,201910801,Velasco,Josaiah,Dalena,SHS-STEM,G - 11,xiGo,0,ready to vote,unblock,0
+,201910849,Aparre,Melody Faith,Mancha,SHS-STEM,G - 11,XM43,0,ready to vote,unblock,0
+,201910461,Arbitrario,Chloe Mae,Urot,SHS-STEM,G - 11,XbVq,0,ready to vote,unblock,0
+,201910470,Arbuyes,Salome,Clenuar,SHS-STEM,G - 11,ziNC,0,ready to vote,unblock,0
+,201910389,Balili,Princess Claire,Na,SHS-STEM,G - 11,kUvz,0,ready to vote,unblock,0
+,201910504,Bautista,Jorgie Mae,Betinol,SHS-STEM,G - 11,GhSf,0,ready to vote,unblock,0
+,201910445,Bulingkit,Thursday Jelou,Arapoc,SHS-STEM,G - 11,SLW7,0,ready to vote,unblock,0
+,201910309,Caminero,Rycia ,Arao-Arao,SHS-STEM,G - 11,3vwV,0,ready to vote,unblock,0
+,201910192,Clapano,Kathleen Jhane,Bongcac,SHS-STEM,G - 11,SxSs,0,ready to vote,unblock,0
+,201910450,Cloma,Shakira Ysabelle,Na,SHS-STEM,G - 11,9BjV,0,ready to vote,unblock,0
+,201910833,Dalut,Lyza Joy,Degran,SHS-STEM,G - 11,uXrk,0,ready to vote,unblock,0
+,201910452,Dinore,Kristel,Bongcac,SHS-STEM,G - 11,62F9,0,ready to vote,unblock,0
+,201910367,Esterado,Francis Rose,N/A,SHS-STEM,G - 11,JAmH,0,ready to vote,unblock,0
+,201910477,Getigan,Jaya,Tagalog,SHS-STEM,G - 11,xMJD,0,ready to vote,unblock,0
+,201910585,Gomez,Mary Grace,Lopena,SHS-STEM,G - 11,jUoe,0,ready to vote,unblock,0
+,201910482,Guiang,Princess Mickaela,Mijares,SHS-STEM,G - 11,3T7U,0,ready to vote,unblock,0
+,201910570,Guirit,Ellin Abegail,C,SHS-STEM,G - 11,JJaP,0,ready to vote,unblock,0
+,201910277,Guivencan,Princess Dianne,Bonga,SHS-STEM,G - 11,sTZi,0,ready to vote,unblock,0
+,201910464,Hontanosas ,Darlene Michaela,Cabahug,SHS-STEM,G - 11,iv4N,0,ready to vote,unblock,0
+,201910875,Idulsa,Mary Jade,Solon,SHS-STEM,G - 11,hUrk,0,ready to vote,unblock,0
+,201910569,Laborte,Jana,Arcamo,SHS-STEM,G - 11,7af8,0,ready to vote,unblock,0
+,201910532,Laig,Kyla Marie,Estomata,SHS-STEM,G - 11,5Zbo,0,ready to vote,unblock,0
+,201910639,Lopez,Kayla,Honculada,SHS-STEM,G - 11,6C6n,0,ready to vote,unblock,0
+,201910297,Lusterio,Kimver Marie,Horida,SHS-STEM,G - 11,FYWY,0,ready to vote,unblock,0
+,201910457,Manliguez,Fatima,Bajo,SHS-STEM,G - 11,j3np,0,ready to vote,unblock,0
+,201910524,Mara,Rose Mae Ann,Barbarona,SHS-STEM,G - 11,bwTi,0,ready to vote,unblock,0
+,201910185,Melicor,Nicole,Na,SHS-STEM,G - 11,78BG,0,ready to vote,unblock,0
+,201910757,Nistal,Ni¥A Danisse,Quicho,SHS-STEM,G - 11,P7Eu,0,ready to vote,unblock,0
+,201910973,Oma¥A,Gzil Marie Dominique,Bongay,SHS-STEM,G - 11,jj64,0,ready to vote,unblock,0
+,201910318,Omosora,Mary Grace,Cual,SHS-STEM,G - 11,iP4J,0,ready to vote,unblock,0
+,201910865,Panganoron,Rosebelle,Baquero,SHS-STEM,G - 11,mnB6,0,ready to vote,unblock,0
+,201910935,Pasco,Nadine,Sinatao,SHS-STEM,G - 11,PpXW,0,ready to vote,unblock,0
+,201910481,Sales,Marjelith,Alasagas,SHS-STEM,G - 11,QAJr,0,ready to vote,unblock,0
+,201910454,Sancha,Zsaira Janelle,Loreniana,SHS-STEM,G - 11,nTuq,0,ready to vote,unblock,0
+,201910117,Sarigumba,Jonnah Mae,Pantallano,SHS-STEM,G - 11,s96Z,0,ready to vote,unblock,0
+,201910602,Simoran,Mary Jane,Cubeta,SHS-STEM,G - 11,K6aP,0,ready to vote,unblock,0
+,201910599,Solilap,Maria Christyll Gene,Cincoflores,SHS-STEM,G - 11,nB64,0,ready to vote,unblock,0
+,201910624,Tadle,Jeanne,Llup,SHS-STEM,G - 11,bntt,0,ready to vote,unblock,0
+,201910475,Tubiano,Marianne Angelli,N/A,SHS-STEM,G - 11,5zy2,0,ready to vote,unblock,0
+,0417-5809,Ungay,Mary Candy,Ladion,SHS-STEM,G - 11,LRG9,0,ready to vote,unblock,0
+,201810414,Arceno,Alexander,Alido,SHS-STEM,G - 12,vmpH,0,ready to vote,unblock,0
+,201810377,Bag-Ao,Vernie Ponce,Gupit,SHS-STEM,G - 12,ujUn,0,ready to vote,unblock,0
+,201810443,Balagulan,Lloyd Francis,.,SHS-STEM,G - 12,qG44,0,ready to vote,unblock,0
+,201810214,Balite,Johnly Jay ,Jamodiong,SHS-STEM,G - 12,g547,0,ready to vote,unblock,0
+,201810175,Ca¥Ero,Geohance Ivan,Iman,SHS-STEM,G - 12,iFuT,0,ready to vote,unblock,0
+,201810018,Clemen,Markshane Evan,Cual,SHS-STEM,G - 12,d3E5,0,ready to vote,unblock,0
+,201810325,Estologa,Elijah Ni¥O,F.,SHS-STEM,G - 12,KFis,0,ready to vote,unblock,0
+,201810074,Estoquia,Jonrae,Arbutante,SHS-STEM,G - 12,pMeP,0,ready to vote,unblock,0
+,201810178,Evangelista,Jay Winston,Ras,SHS-STEM,G - 12,ZPVm,0,ready to vote,unblock,0
+,201910997,Fantonial,Kenneth,Lariba,SHS-STEM,G - 12,b8aN,0,ready to vote,unblock,0
+,201810076,"Flores, Jr",Angelito,Francisco,SHS-STEM,G - 12,Zw85,0,ready to vote,unblock,0
+,201810672,Laurito,Ralph Jushoa,Arcamo,SHS-STEM,G - 12,2HdD,0,ready to vote,unblock,0
+,201810059,Lucilla,Lou Brian,Alupit,SHS-STEM,G - 12,4eMD,0,ready to vote,unblock,0
+,201810658,Milan,Emanuel,Sampoang,SHS-STEM,G - 12,Q5Vf,0,ready to vote,unblock,0
+,201810155,Ong,Rowell,Bongcas,SHS-STEM,G - 12,RKpQ,0,ready to vote,unblock,0
+,201810419,Sobiono,James Adriane,Piollo,SHS-STEM,G - 12,JDpy,0,ready to vote,unblock,0
+,201810497,Sumaylo,Miguel Angelu,Guioguio,SHS-STEM,G - 12,ko8P,0,ready to vote,unblock,0
+,201810460,Arado,Jezza Mae,Hondanero,SHS-STEM,G - 12,i9gz,0,ready to vote,unblock,0
+,201810136,Arbole,Jaya Jade,Estoquia,SHS-STEM,G - 12,qihy,0,ready to vote,unblock,0
+,201810139,Ayop,Jonalyn,Tutor,SHS-STEM,G - 12,WHNq,0,ready to vote,unblock,0
+,201810400,Baguio,Janelle,Salcedo,SHS-STEM,G - 12,a9LN,0,ready to vote,unblock,0
+,201910921,Basa,Jessa Marie ,Arbole,SHS-STEM,G - 12,NEwt,0,ready to vote,unblock,0
+,201810418,Cagatin,Jeslyn Ann,Abarado,SHS-STEM,G - 12,95YT,0,ready to vote,unblock,0
+,201810491,Caysido,Ylyssa Zen ,Decano,SHS-STEM,G - 12,xdva,0,ready to vote,unblock,0
+,201810395,Dalagan,Bea Monica,N/A,SHS-STEM,G - 12,xybJ,0,ready to vote,unblock,0
+,201810466,Daoang,Althea Dianne,Valero,SHS-STEM,G - 12,G76H,0,ready to vote,unblock,0
+,201810401,Digamon,Kyla Mae,Gordillo,SHS-STEM,G - 12,H75v,0,ready to vote,unblock,0
+,201810070,Galler,Jelie Grace,Tagaro,SHS-STEM,G - 12,sXv5,0,ready to vote,unblock,0
+,201810128,Gayamo,Shaira Maiko,Tura,SHS-STEM,G - 12,JDP4,0,ready to vote,unblock,0
+,201810406,Guigue,Ma. Antoneth,Caderao,SHS-STEM,G - 12,tJ2K,0,ready to vote,unblock,0
+,201810050,Hera,Emmalyn,Bayron,SHS-STEM,G - 12,GDyJ,0,ready to vote,unblock,0
+,201810387,Lagunday,Mary-Ann,Guiritan,SHS-STEM,G - 12,jMWj,0,ready to vote,unblock,0
+,201810143,Lapura,Bianca Jade,Mendoza,SHS-STEM,G - 12,vGRB,0,ready to vote,unblock,0
+,201810452,Lusterio,Rizza May ,Escarro,SHS-STEM,G - 12,cGHT,0,ready to vote,unblock,0
+,201810002,Maceda,Highryl,Sarahina,SHS-STEM,G - 12,uZNc,0,ready to vote,unblock,0
+,201810375,Maligmat,Betty Mae,Recto,SHS-STEM,G - 12,WwjK,0,ready to vote,unblock,0
+,201810417,Migri¥O,Trisha Marie,Lonoy,SHS-STEM,G - 12,aMvJ,0,ready to vote,unblock,0
+,201810407,Mijos,Hera Mie,Bongo,SHS-STEM,G - 12,hVyj,0,ready to vote,unblock,0
+,201810394,Nacuna,Anacenthia,Arancon,SHS-STEM,G - 12,SANp,0,ready to vote,unblock,0
+,201810475,Naparati,Jhonela,Reando,SHS-STEM,G - 12,ZjMv,0,ready to vote,unblock,0
+,201810514,Piloton,Ni¥A Angela,Simacon,SHS-STEM,G - 12,aV35,0,ready to vote,unblock,0
+,201910909,Rasonable,Nicole Ashley,Ugay,SHS-STEM,G - 12,hzGv,0,ready to vote,unblock,0
+,201810148,Salinas,Christine Gaile,Sumaoy,SHS-STEM,G - 12,D3Xz,0,ready to vote,unblock,0
+,201810385,Zafra,Jesille,Apa,SHS-STEM,G - 12,JL4p,0,ready to vote,unblock,0
